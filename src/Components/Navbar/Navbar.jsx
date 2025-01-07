@@ -23,7 +23,7 @@ const Navbar = () => {
     const navigate = useNavigate();
     
     const Home = () => {
-      navigate('/simplyategit'); 
+      navigate('/'); 
     };
     const FAQ = () => {
      navigate('FAQ'); 
