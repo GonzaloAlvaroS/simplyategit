@@ -51,7 +51,7 @@ function ScrollToTop() {
 const App = () => {
 
   return (
-     <Router basename="/simplyategit" 
+     <Router basename="/" 
      future={{
       v7_startTransition: true,
       v7_relativeSplatPath: true,}}>
