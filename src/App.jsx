@@ -51,14 +51,14 @@ function ScrollToTop() {
 const App = () => {
 
   return (
-     <Router basename="/" 
+     <Router basename="simplyategit" 
      future={{
       v7_startTransition: true,
       v7_relativeSplatPath: true,}}>
      <ScrollToTop/>
      <Navbar/>
      <Routes>
-     <Route path="/" element={
+     <Route path="simplyategit" element={
      <div>
      <Home/>
      <LineInfo/>
