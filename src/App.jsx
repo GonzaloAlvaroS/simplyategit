@@ -58,7 +58,7 @@ const App = () => {
      <ScrollToTop/>
      <Navbar/>
      <Routes>
-     <Route path="/" element={
+     <Route path="simplyategit" element={
      <div>
      <Home/>
      <LineInfo/>
